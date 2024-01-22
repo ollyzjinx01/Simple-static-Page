@@ -1,0 +1,39 @@
+/* Front.css */
+
+.Front {
+  text-align: center;
+}
+
+.Front h1 {
+  color: #007bff;
+}
+
+.Front p {
+  font-size: 18px;
+  color: #333;
+}
+
+.Front ul {
+  padding: 0;
+}
+
+.Front li {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+}
+
+.Menu {
+  display: flex;
+}
+
+li{
+    padding-right: 10px;
+    list-style-type: none;
+}
